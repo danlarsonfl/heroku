@@ -1,0 +1,1 @@
+web: gunacorn app:app
